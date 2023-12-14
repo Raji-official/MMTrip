@@ -2,5 +2,10 @@ TC 01
 Tc 02
 TC 03
 
+<<<<<<< HEAD
 TC 07
 TC 08
+=======
+TC 05
+TC 06
+>>>>>>> BusMMT
